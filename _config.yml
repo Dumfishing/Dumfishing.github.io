@@ -3,9 +3,9 @@
 
 # Site Settings
 title                    : "Baiyu Ren's Homepage"
-description              : "An undergraduate student at Fuzhou University, interested in algorithms and computer science."
+description              : "福州大学软件工程本科生 · 关注后端工程与 AI Agent 应用"
 repository               : "Dumfishing/Dumfishing.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # SEO & Analytics
 google_analytics_id      :
@@ -15,10 +15,10 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Baiyu Ren"
+  name             : "任柏宇"
   avatar           : "images/avatar.jpg"
-  bio              : "FZU Undergraduate"
-  location         : "Fuzhou, China"
+  bio              : "福州大学 · 软件工程"
+  location         : "福州"
   employer         :
   pubmed           :
   googlescholar    :
