@@ -2,7 +2,7 @@
 # If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Baiyu Ren's Homepage"
+title                    : "任柏宇的个人主页"
 description              : "福州大学软件工程本科生 · 关注后端工程与 AI Agent 应用"
 repository               : "Dumfishing/Dumfishing.github.io"
 google_scholar_stats_use_cdn : false
